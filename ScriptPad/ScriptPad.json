@@ -1,0 +1,20 @@
+{
+    "Settings":[
+        {
+            "Title": "Update OSD Module",
+            "Version": "21.7.30.1",
+            "Author": "https://twitter.com/SeguraOSD",
+            "Company": "OSDeploy.com",
+            "Path": "https://raw.githubusercontent.com/OSDeploy/OSDCloud/main/ScriptPad/ScriptPad.json",
+            "Help": "https://github.com/OSDeploy/OSDCloud/tree/main/ScriptPad"
+        }
+    ],
+    "Scripts": [
+        {
+            "Name": "Update OSD Module",
+            "Guid": "0095f14b-8738-4a59-a8a4-a797985deb4e",
+            "Description": "Update the OSD PowerShell Module",
+            "Uri": "https://raw.githubusercontent.com/OSDeploy/OSDCloud/main/Archive/Readme.ps1"
+        }
+    ]
+}
